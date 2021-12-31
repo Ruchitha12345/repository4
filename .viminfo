@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1640934926,,"wq!"
+|2,0,1640937254,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,33 @@
 # Registers:
 
 # File marks:
-'0  4  24  ~/file1
-|4,48,4,24,1640934926,"~/file1"
+'0  5  0  ~/file3
+|4,48,5,0,1640937254,"~/file3"
+'1  4  24  ~/file1
+|4,49,4,24,1640934926,"~/file1"
 
 # Jumplist (newest first):
+-'  5  0  ~/file3
+|4,39,5,0,1640937254,"~/file3"
+-'  1  0  ~/file3
+|4,39,1,0,1640937208,"~/file3"
+-'  4  24  ~/file1
+|4,39,4,24,1640934926,"~/file1"
 -'  4  24  ~/file1
 |4,39,4,24,1640934926,"~/file1"
 -'  1  0  ~/file1
 |4,39,1,0,1640934823,"~/file1"
+-'  1  0  ~/file1
+|4,39,1,0,1640934823,"~/file1"
 
 # History of marks within files (newest to oldest):
+
+> ~/file3
+	*	1640937245	0
+	"	5	0
+	^	5	0
+	.	4	7
+	+	4	7
 
 > ~/file1
 	*	1640934914	0
